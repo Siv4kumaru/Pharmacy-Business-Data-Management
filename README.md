@@ -32,7 +32,7 @@ Shree Chendur Medical Centre faced several operational challenges:
 *   **Cleaning & Transformation:** The extracted data was processed using the `Pandas` library in Python. Monthly data was consolidated, cleaned, structured, and enriched. The final cleaned datasets were exported to **CSV format** 📊 for analysis. Excel was also used for auxiliary data organization.
 
 **(Consider adding a simple flow diagram image here: PDF -> Python Script -> Clean CSV)**
-`[Optional: Insert Flow Diagram Image]`
+
 
 ---
 
