@@ -51,11 +51,6 @@ A multi-faceted analytical approach was employed using **Tableau** 📊 for visu
     *   **Pie Charts** 🥧 and **Tree Maps** 🌳 visualized sales and profit contributions by supplier.
 5.  **Product Performance Segmentation:** A **Scatter Plot with Quadrant Segmentation** ✨ (Profit vs. Inventory Turnover Rate - ITR) categorized products for strategic focus.
 
-**(Suggestion: If you have a Tableau Public profile or can share screenshots, link key visualizations here!)**
-*   *Example Box Plot Insight:* `[Optional: Insert Box Plot Screenshot/Link]`
-*   *Example Pareto Chart:* `[Optional: Insert Pareto Chart Screenshot/Link]`
-*   *Example Scatter Plot:* `[Optional: Insert Scatter Plot Screenshot/Link]`
-
 ---
 
 ## 💻 Tools Used
