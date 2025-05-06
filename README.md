@@ -2,8 +2,6 @@
 
 **BDM Capstone Project | IITM Online BS Degree Program** 🎓
 
-**Author:** Sivakumar P (Roll number: 21f3001256)
-
 ---
 
 ## 🎯 Overview
